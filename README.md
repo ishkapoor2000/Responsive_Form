@@ -5,3 +5,5 @@ Responsive Bootstrap from deployed on Heroku trial.
 
 # Snapshots
 ![Ish Logo](avataaars.png)
+![Snap_1](2021-02-02 (1).png)
+![Snap_2](2021-02-02.png)
